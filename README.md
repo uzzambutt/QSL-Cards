@@ -12,7 +12,7 @@ location: MM71dl
 | RTM Kajang | - | 30/3/2026 | AM | eQSL | ![RTM-Kajang](SRC/Screenshot_2026-05-15-11-39-11-432_com.android.chrome-edit.jpg) |
 | ARISS Series 31 | RS0ISS | 13/4/2026 | SSTV | Diploma | ![ARISS](SRC/ARISS_Award_SWL.png) |
 | Remeasat Series 32 | RS0ISS | 8/5/2026 | SSTV | Diploma | ![Remeasat](SRC/Screenshot_2026-05-09-18-52-15-621_com.google.android.apps.nbu.files-edit.jpg) |
-|  |  |  |  |  |  |
+| QMR-KWT-2 | RS59S | 12/5/2026 | 2400bd GMSK USP | E-Mail QSL | ![OrbitalSpace](SRC/Screenshot_2026-05-17-17-44-20-409_com.android.chrome-edit.jpg) |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
