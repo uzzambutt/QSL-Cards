@@ -16,3 +16,4 @@ location: MM71dl
 | 5 | QSO  | S2006SWL | 2026-05-17 | FM Repeater | eQSL | ![View](SRC/_cfimg-8835625050448489997.jpeg) |
 | 6 | R4uab ISS SSTV  | RS0ISS/NA0ISS | 2026-05-18 | SSTV Martin 32 | Diploma | ![View](SRC/IMG_20260518_235015_887.jpg)|
 | 7 | UmKA-1 Scouts Day | RS40S-1 | 2026-05-19 | SSTV | Diploma | ![View](SRC/certificate-3b7ad95844cb09535d4fa6b531e1c77cccb2a88f00a160f204999d6d0b81.jpg)|
+| 8 | KBS World Radio | - | 2026-03-31 | AM | eQSL | ![View](SRC/IMG_20260520_172413.jpg) |
