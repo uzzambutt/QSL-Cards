@@ -17,4 +17,5 @@ location: MM71dl
 | 6 | R4uab ISS SSTV  | RS0ISS/NA0ISS | 2026-05-18 | SSTV Martin 32 | Diploma | ![View](SRC/IMG_20260518_235015_887.jpg)|
 | 7 | UmKA-1 Scouts Day | RS40S-1 | 2026-05-19 | SSTV | Diploma | ![View](SRC/certificate-3b7ad95844cb09535d4fa6b531e1c77cccb2a88f00a160f204999d6d0b81.jpg)|
 | 8 | KBS World Radio | - | 2026-03-31 | AM | eQSL | ![View](SRC/IMG_20260520_172413.jpg) |
+| 8.1| KBS World Radio | - | 2026-03-31 | AM | Paper QSL | ![View](SRC/Screenshot_2026-05-21-18-00-21-882_com.google.android.apps.nbu.files-edit.jpg) |
 | 9 | BBC World Radio | BBC Al-Dhabbiya | 2026-03-31 | AM | eQSL | ![View](SRC/3.jpg) |
