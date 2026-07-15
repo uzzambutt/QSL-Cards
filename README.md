@@ -21,4 +21,6 @@ location: MM71dl
 | 8.1| KBS World Radio | - | 2026-03-31 | AM | Paper QSL | ![View](SRC/Screenshot_2026-05-21-18-00-21-882_com.google.android.apps.nbu.files-edit.jpg) |
 | 9 | BBC World Radio | BBC Al-Dhabbiya | 2026-03-31 | AM | eQSL | ![View](SRC/3.jpg) |
 | 10 | Radio Philippines | - | 2026-03-31 | AM | eQSL | ![View](SRC/Screenshot_2026-05-22-09-05-47-186_com.google.android.apps.nbu.files-edit.jpg) |
-| 11 | UmKA-1 (White Nights) | RS40S | 2026-06-23 | SSTV | Diploma | ![View](SRC/18_M._Uzzam_Butt.jpg) |
+| 11 | UmKA-1 (White Nights) | RS40S | 2026-06-1 | SSTV | eQSL | ![View](SRC/18_M._Uzzam_Butt.jpg) |
+| 12 | SakhaCube Cholbon | - | 2026-05-11 | GMSK 9600bd | eQSL | ![View](SRC/Screenshot_2026-07-15-19-52-20-658_com.google.android.apps.nbu.files-edit.jpg)
+| 13 | SakhaCube Cholbon | - | 2026-06-01 | SSTV | eQSL | ![View](SRC/Screenshot_2026-07-15-19-52-36-851_com.google.android.apps.nbu.files-edit.jpg)
