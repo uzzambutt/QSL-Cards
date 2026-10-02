@@ -24,4 +24,4 @@ location: MM71dl
 | 12 | SakhaCube Cholbon | - | 2026-05-11 | GMSK 9600bd | eQSL | ![View](SRC/Screenshot_2026-07-15-19-52-20-658_com.google.android.apps.nbu.files-edit.jpg)
 | 13 | SakhaCube Cholbon | - | 2026-06-01 | SSTV | eQSL | ![View](SRC/Screenshot_2026-07-15-19-52-36-851_com.google.android.apps.nbu.files-edit.jpg)
 | 14 | Voice of Korea | - | 2026-03-29 | AM | Email QSL | ![View](SRC/Screenshot_2026-07-28-11-16-40-191_com.android.chrome-edit.jpg)
-| 15 | Del Radioclub Querétaro | - | 2026-10-02 | SSTV | Diploma | ![View](SRC/Diploma_ISS_AP0013SWL(1).png)
+| 15 | Del Radioclub Querétaro | - | 2026-10-02 | SSTV | Diploma | ![View](SRC/Diploma_ISS_AP0013SWL.png)
