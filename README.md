@@ -3,7 +3,7 @@ Each and every Qsl I ever got will be listed here
 ```
 Name: Muhammad Uzzam Butt
 Callsign: AP0013SWL
-location: MM71dl
+location: MM71dl/p
 ```
 ## QSL Card Gallery
 
